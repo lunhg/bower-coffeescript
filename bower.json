@@ -4,9 +4,7 @@
     "lunhanig@gmail.com"
   ],
   "description": "Coffeescript bower plugin",
-  "main": [
-      "assets/js/coffeescript.js",
-  ],
+  "main": "assets/js/coffeescript.js",
   "keywords": [
     "coffeescript"
   ],
