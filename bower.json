@@ -1,0 +1,22 @@
+{
+  "name": "bower-coffeescript",
+  "authors": [
+    "lunhanig@gmail.com"
+  ],
+  "description": "Coffeescript bower plugin",
+  "main": [
+      "assets/js/coffeescript.js",
+  ],
+  "keywords": [
+    "coffeescript"
+  ],
+  "license": "CC 4.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
